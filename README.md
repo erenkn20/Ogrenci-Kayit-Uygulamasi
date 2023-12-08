@@ -38,3 +38,6 @@ Ders Kayıt Formu, kullanıcıya ders bilgilerini girmelerine ve ardından isted
 
 ![image](https://github.com/erenkn20/Ogrenci-Kayit-Uygulamasi/assets/121315822/c313c5d4-82f8-4926-b2d3-ed4866095903)  (Öğrenci Kayıt Formu)
 
+![image](https://github.com/erenkn20/Ogrenci-Kayit-Uygulamasi/assets/121315822/d5efbd18-52ea-4f23-a287-48a4107ae3a0)  (Kaydedilen Derslerin Görünümü
+
+
