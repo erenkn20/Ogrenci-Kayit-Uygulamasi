@@ -1,2 +1,2 @@
-Ders Kodu: null, Ders Adı: null, Ders Dönemi: null
-Ders Kodu: null, Ders Adı: null, Ders Dönemi: null
+Ders Kodu: 2027, Ders Adı: İşletim Sistemleri, Ders Dönemi: 3
+Ders Kodu: TURC01, Ders Adı: Türk Dili ve Edebiyatı I, Ders Dönemi: 3
