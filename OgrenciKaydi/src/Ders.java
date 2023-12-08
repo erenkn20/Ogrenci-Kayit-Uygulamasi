@@ -20,14 +20,14 @@ public class Ders implements Serializable {
     }
 
     public String getDersAd() {
-        return null;
+        return dersAd;
     }
 
     public String getDersKodu() {
-        return null;
+        return dersKodu;
     }
 
     public String getDersDonem() {
-        return null;
+        return dersDonem;
     }
 }
