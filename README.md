@@ -1,6 +1,6 @@
 # Java Öğrenci Kayıt Uygulaması
 
-Bu proje, Java programlama dilinde Nesneye Dayalı Programlama (OOP) prensiplerini kullanarak geliştirilmiş basit bir öğrenci kayıt uygulamasını içerir. Ayrıca, Windows Form uygulaması oluşturmak için Java Swing kütüphanesi kullanılmıştır.
+Bu proje, Java programlama dilinde Nesneye Dayalı Programlama (OOP) prensiplerini kullanarak geliştirilmiş basit bir öğrenci kayıt uygulamasını içerir. Ayrıca, Windows Form uygulaması oluşturmak için Java Swing kütüphanesi kullanılmıştır. Uygulama ProjeMenuForm sınıfı üzerinden çalıştırılıyor.
 
 ## Proje İçeriği
 
