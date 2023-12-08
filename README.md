@@ -28,3 +28,13 @@ Ders Kayıt Formu, kullanıcıya ders bilgilerini girmelerine ve ardından isted
 ## Gereksinimler
 
 - Java JDK 8 veya üzeri
+
+
+## Ekran Görüntüleri
+
+![image](https://github.com/erenkn20/Ogrenci-Kayit-Uygulamasi/assets/121315822/8f8ee252-dac5-4bef-b48b-f07e6c5dcdaa)  (Menu)
+
+![image](https://github.com/erenkn20/Ogrenci-Kayit-Uygulamasi/assets/121315822/6cad2533-a2d5-468d-8d0b-5f3f78ba5ba5)  (Ders Kayıt Formu)
+
+![image](https://github.com/erenkn20/Ogrenci-Kayit-Uygulamasi/assets/121315822/c313c5d4-82f8-4926-b2d3-ed4866095903)  (Öğrenci Kayıt Formu)
+
